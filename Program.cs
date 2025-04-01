@@ -37,7 +37,7 @@ class JobShopSchedule
         //place them in order of the operation in their machines
         //then do that for each job, taking into account previous jobs
 
-        //I CAN GENERATE A SCHEDULE. BOSH. cheers emily
+        //I CAN GENERATE A SCHEDULE. BOSH. cheers emily.
         foreach (Job job in jobs)
         {
             var orderedJob = job.subJobs.OrderBy(s => s.operationId).ToList();
