@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JSSP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e473cb6df8c5802ef496ce8666792ad58bf92c14")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4cab1e7eda0ff583d8ca6825a9fa76748989f565")]
 [assembly: System.Reflection.AssemblyProductAttribute("JSSP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JSSP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
